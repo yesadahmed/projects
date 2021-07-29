@@ -1,0 +1,49 @@
+
+.flowContainer iframe {
+    width: 1000px;
+    height: 1000px;
+    min-height: 800px;
+    border: none;
+    overflow: hidden;
+    margin-left: 100px;
+}
+
+.btn {
+    float: right;
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    
+    font-size: 16px;
+    color: white;
+}
+
+.btnflow {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    font-size: 16px;
+    color: white;
+}
+
+.success {
+    background-color: #46a049;
+}
+    /* Green */
+    .success:hover {
+        background-color: #247e27;
+    }
